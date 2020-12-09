@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+#insert {
+  text-align: center;
+  width: 100%;
+  background-color: #383838;
+  padding: 10px;
+}
+
+#insert input{
+  border: none;
+  border-radius: 2px;
+  background-color: #b2b2b2;
+  padding: 5px;
+  opacity: 60%;
+}
+
+#insert button{
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  color: white;
+  background-color: #3a3a3a;
+}
+
+table{
+  text-align: center;
+  align: center;
+  margin-top: 10px;
+  margin-left: 500px;
+}
